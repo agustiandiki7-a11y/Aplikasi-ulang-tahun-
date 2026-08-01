@@ -1,0 +1,6 @@
+{
+  "name": "Stitch Birthday",
+  "description": "Pengalaman ulang tahun yang sinematik, emosional, dan elegan di bawah langit malam berbintang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
